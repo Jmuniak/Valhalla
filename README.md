@@ -1,7 +1,7 @@
 # Valhalla - Your D&D characters at the tip of your fingers
 
 ### Try it out
-
+https://warm-dusk-48851.herokuapp.com/
 username: testuser
 password: testapp
 
